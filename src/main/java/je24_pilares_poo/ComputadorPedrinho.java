@@ -2,16 +2,22 @@ package je24_pilares_poo;
 
 public class ComputadorPedrinho {
     public static void main(String[] args) {
-        MSNMessenger msnMessenger = new MSNMessenger();
-        msnMessenger.enviarMensagem();
-        msnMessenger.receberMensagem();
+        SistemaMensagemInstatanea smi = null;
+    /*
+      NÃO SE SABE QUAL APP
+      MAS QUALQUER UM DEVERÁ ENVIAR E RECEBER MENSAGEM
+    */
+        String appEscolhido="tlg";
 
-        FacebookMessenger facebookMessenger = new FacebookMessenger();
-        facebookMessenger.enviarMensagem();
-        facebookMessenger.receberMensagem();
+        if(appEscolhido.equals("msn"))
+            smi = new MSNMessenger();
+        else if(appEscolhido.equals("fbm"))
+            smi = new FacebookMessenger();
+        else if(appEscolhido.equals("tlg"))
+            smi = new Telegram();
 
-        Telegram telegram = new Telegram();
-        telegram.enviarMensagem();
-        telegram.receberMensagem();
+
+        smi.enviarMensagem();
+        smi.receberMensagem();
     }
 }

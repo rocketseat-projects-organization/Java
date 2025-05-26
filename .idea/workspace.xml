@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49258b9a-d3d4-4b4b-b07c-f365839d0a50" name="Changes" comment="" />
+    <list default="true" id="49258b9a-d3d4-4b4b-b07c-f365839d0a50" name="Changes" comment="feat: adicionado pasta &quot;api&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,21 +13,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "samuelhermany"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;samuelhermany&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/samuelhermany/Java.git",
-    "accountId": "29b81118-d434-4067-8dd9-da9bc82d9587"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/samuelhermany/Java.git&quot;,
+    &quot;accountId&quot;: &quot;29b81118-d434-4067-8dd9-da9bc82d9587&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2xebVG8ydFenlTzRze96v2bV599" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -38,6 +38,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "F:/Downloads/Nova pasta",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
@@ -59,10 +60,40 @@
       <option name="presentableId" value="Default" />
       <updated>1748301508766</updated>
       <workItem from="1748301510781" duration="46000" />
+      <workItem from="1748301750525" duration="203000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: adicionado pasta &quot;api&quot;">
+      <option name="closed" value="true" />
+      <created>1748301805532</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1748301805532</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: adicionado pasta &quot;api&quot;">
+      <option name="closed" value="true" />
+      <created>1748301834107</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1748301834107</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: adicionado pasta &quot;api&quot;">
+      <option name="closed" value="true" />
+      <created>1748301928886</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1748301928886</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: adicionado pasta &quot;api&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: adicionado pasta &quot;api&quot;" />
   </component>
 </project>
